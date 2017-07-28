@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:6:5-22:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/darien/.android/build-cache/fbafe38ecd514929dad39a227e74f36d4f0239a0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/darien/.android/build-cache/c5ce1e872a5e7d6c9ece1f3031e9a889286b01a0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/darien/.android/build-cache/672e0ee6a56731ceae0bcfe42504182015a9dd75/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/darien/.android/build-cache/5c236fd514b175976ddd31621deb632d75752167/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/darien/.android/build-cache/c8e43e8291463fd7a7a2abe3645fc55fd5bbd07d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/darien/.android/build-cache/c9b3281c1e627721f509a87323fe96f3b6371148/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/darien/.android/build-cache/8456c3c4ad9ba9ceca17be7684b0f8963b6c63c5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/darien/.android/build-cache/8daabd81ba6418bca4f9ecb0ffbeeed757845075/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/darien/.android/build-cache/7c6afd056f1f9cc1d43c91f6b62cae5bafb32874/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/darien/.android/build-cache/03573de309fa18e0cf39c30e6f0319c2b191980e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.swiffshot.swiffclient.MainActivity
+ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/darien/.android/build-cache/fbafe38ecd514929dad39a227e74f36d4f0239a0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /home/darien/.android/build-cache/c5ce1e872a5e7d6c9ece1f3031e9a889286b01a0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/darien/.android/build-cache/672e0ee6a56731ceae0bcfe42504182015a9dd75/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/darien/.android/build-cache/5c236fd514b175976ddd31621deb632d75752167/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/darien/.android/build-cache/c8e43e8291463fd7a7a2abe3645fc55fd5bbd07d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/darien/.android/build-cache/c9b3281c1e627721f509a87323fe96f3b6371148/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/darien/.android/build-cache/8456c3c4ad9ba9ceca17be7684b0f8963b6c63c5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/darien/.android/build-cache/8daabd81ba6418bca4f9ecb0ffbeeed757845075/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] /home/darien/.android/build-cache/7c6afd056f1f9cc1d43c91f6b62cae5bafb32874/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/darien/.android/build-cache/03573de309fa18e0cf39c30e6f0319c2b191980e/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/darien/.android/build-cache/fbafe38ecd514929dad39a227e74f36d4f0239a0/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/src/main/AndroidManifest.xml

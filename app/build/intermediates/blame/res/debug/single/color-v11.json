@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/darien/.android/build-cache/fbafe38ecd514929dad39a227e74f36d4f0239a0/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/darien/.android/build-cache/fbafe38ecd514929dad39a227e74f36d4f0239a0/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

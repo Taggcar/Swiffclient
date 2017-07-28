@@ -1,0 +1,7 @@
+#Thu Jul 27 12:44:38 PDT 2017
+base.0=/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5985a4848dbd4be378a77afab911fc4784b12ce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dafa30932b9f4e5ebafb685dfdd7868a195a2cff/classes.dex
+base.1=/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dafa30932b9f4e5ebafb685dfdd7868a195a2cff
+file.0=/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5985a4848dbd4be378a77afab911fc4784b12ce/classes.dex

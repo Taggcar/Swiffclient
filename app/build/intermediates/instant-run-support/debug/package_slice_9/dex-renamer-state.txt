@@ -1,0 +1,4 @@
+#Fri Jul 28 08:55:37 PDT 2017
+base.0=/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/darien/dev/panzer/projects/swiffshot/Swiffclient/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
